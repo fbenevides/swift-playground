@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F29AD829-ABA2-42D6-9D79-4284A3ECD156</string>
+	<key>IDESourceControlProjectName</key>
+	<string>brasileirao</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>35222148FC958DD1CC08DA96E569A6F32D14A81F</key>
+		<string>github.com:SelecaoGlobocom/FelipeBenevides.git</string>
+		<key>4EA48C4418C0D37C936EB709C50F03661DB187D9</key>
+		<string>https://github.com/pkluz/PKHUD</string>
+		<key>C93564C1AFB8B50FF58188F21182F5D0EEAD1C3F</key>
+		<string>github.com:Haneke/HanekeSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>brasileirao.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>35222148FC958DD1CC08DA96E569A6F32D14A81F</key>
+		<string>../..</string>
+		<key>4EA48C4418C0D37C936EB709C50F03661DB187D9</key>
+		<string>../../brasileirao/Libraries/PKHUD</string>
+		<key>C93564C1AFB8B50FF58188F21182F5D0EEAD1C3F</key>
+		<string>../../brasileirao/Libraries/HanekeSwift</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:SelecaoGlobocom/FelipeBenevides.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>35222148FC958DD1CC08DA96E569A6F32D14A81F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>35222148FC958DD1CC08DA96E569A6F32D14A81F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>brasileirao</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C93564C1AFB8B50FF58188F21182F5D0EEAD1C3F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HanekeSwift</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4EA48C4418C0D37C936EB709C50F03661DB187D9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PKHUD</string>
+		</dict>
+	</array>
+</dict>
+</plist>

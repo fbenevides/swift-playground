@@ -1,0 +1,1 @@
+APP="./build/Build/Products/Release-iphonesimulator/brasileirao-cal.app" bundle exec cucumber
